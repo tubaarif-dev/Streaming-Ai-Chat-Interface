@@ -17,8 +17,8 @@ const faviconSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
 </svg>`;
 
 export const metadata: Metadata = {
-  title: "AI Capstone | Tuba Arif",
-  description: "FlyRank AI Engineering Capstone Application",
+  title: "Streaming AI Chat Interface",
+  description: "Real-time, token-by-token streaming AI chat application built with Next.js 15, React 19, and the Vercel AI SDK powered by Gemini 1.5 Flash.",
   authors: [{ name: "Tuba Arif", url: "https://github.com/tubaarif-dev" }],
   icons: {
     icon: `data:image/svg+xml,${encodeURIComponent(faviconSvg)}`,
